@@ -1,6 +1,6 @@
 package ejerciciosJavaBasico.ejercicio4;
 
-public class SmartDevice {
+public abstract class SmartDevice {
     protected String marca;
 
     protected String modelo;
